@@ -3,7 +3,7 @@ public class user {
 
     public user ()
     {
-        
+
     }
 
 }
