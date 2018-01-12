@@ -1,4 +1,4 @@
-pacakage controller.app;
+pacakage core.user;
 
         public class App
 {
