@@ -1,4 +1,4 @@
-package core.model;
+package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.core.model;
 
 public class subjecttable {
     private int _student_id;

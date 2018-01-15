@@ -1,4 +1,4 @@
-package core.model;
+package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.dao.model;
 
 public class Teachers {
 

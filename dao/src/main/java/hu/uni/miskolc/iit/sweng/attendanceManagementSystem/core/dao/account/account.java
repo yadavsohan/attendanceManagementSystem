@@ -1,4 +1,4 @@
-package dao.account;
+package  hu.uni.miskolc.iit.sweng.attendanceManagementSystem.core.dao.account;
 
 class Account
 {

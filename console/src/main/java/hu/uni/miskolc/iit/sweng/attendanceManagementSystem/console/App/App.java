@@ -1,4 +1,4 @@
-package console.App;
+   package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.console.App;
 /**
  * Hello world!
  *

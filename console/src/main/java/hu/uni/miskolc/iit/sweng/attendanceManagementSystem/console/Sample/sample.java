@@ -1,4 +1,4 @@
-package console.sample;
+ package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.console.Sample;
 interface A
 {
     public void aaa();
