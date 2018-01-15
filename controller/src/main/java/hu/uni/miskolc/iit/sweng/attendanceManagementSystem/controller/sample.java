@@ -1,4 +1,4 @@
-pacakage controller.sample;
+package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.controller;
 interface A
 {
     public void aaa();

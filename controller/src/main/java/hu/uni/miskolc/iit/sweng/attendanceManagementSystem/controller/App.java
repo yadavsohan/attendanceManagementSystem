@@ -1,4 +1,4 @@
-pacakage core.user;
+package hu.uni.miskolc.iit.sweng.attendanceManagementSystem.controller;
 
         public class App
 {
